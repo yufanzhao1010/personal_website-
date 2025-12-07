@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 9304844f-182a-4b22-be92-a29b7292bc68
+      url: https://yufanzhao.netlify.app/
