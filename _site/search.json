@@ -1,16 +1,44 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Academic Projects",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2\n\nrunif(10)\n\n [1] 0.7353417 0.7325409 0.7236106 0.8877750 0.8878463 0.1841275 0.4734035\n [8] 0.6032149 0.7192179 0.7552611"
+    "text": "Designed and executed a 2 by 2 factorial experiment on 144 participants to test the individual and interaction effects of caffeine intake and a 30 minute nap on short term memory performance.\nConducted power analysis for a medium effect size of 0.28 and implemented stratified sampling across three island populations with random assignment into four treatment groups.\n\nApplied two way ANOVA with an unbalanced age blocking factor and residual diagnostics, finding no statistically significant main or interaction effects despite the caffeine plus nap group showing the fastest average performance.\n\nPlease see my project here!"
+  },
+  {
+    "objectID": "project.html#coffee-and-napping-effects-on-short-term-memory-ucla",
+    "href": "project.html#coffee-and-napping-effects-on-short-term-memory-ucla",
+    "title": "Academic Projects",
+    "section": "",
+    "text": "Designed and executed a 2 by 2 factorial experiment on 144 participants to test the individual and interaction effects of caffeine intake and a 30 minute nap on short term memory performance.\nConducted power analysis for a medium effect size of 0.28 and implemented stratified sampling across three island populations with random assignment into four treatment groups.\n\nApplied two way ANOVA with an unbalanced age blocking factor and residual diagnostics, finding no statistically significant main or interaction effects despite the caffeine plus nap group showing the fastest average performance.\n\nPlease see my project here!"
+  },
+  {
+    "objectID": "project.html#predicting-nba-game-outcomes-using-rolling-averages-ucla",
+    "href": "project.html#predicting-nba-game-outcomes-using-rolling-averages-ucla",
+    "title": "Academic Projects",
+    "section": "Predicting NBA Game Outcomes Using Rolling Averages — UCLA",
+    "text": "Predicting NBA Game Outcomes Using Rolling Averages — UCLA\n\nEngineered team level rolling and weighted rolling averages across shooting, rebounding, assists, turnovers, and plus minus statistics to predict win loss outcomes using historical NBA game data.\n\nTrained and evaluated Random Forest and QDA classifiers using standard, weighted, and difference in rolling average features, achieving peak accuracy of 0.78 with weighted rolling averages.\n\nPerformed feature selection and forward selection on weighted rolling metrics and constructed opponent based difference features, confirming margin and efficiency statistics as the strongest predictors of game outcomes.\n\nPlease see my project here!"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Yufan Zhao",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hello everyone! I’m Yufan Zhao, a UCLA senior graduating in Spring 2026. I work at the intersection of economics, statistics, and data science, where I enjoy building models to analyze financial markets, forecasting economic trends, and extracting insights from complex datasets. In my free time, I enjoy exploring new cafés and city spots, traveling independently, and working on creative business projects, which gives me opportunities to connect with people from diverse backgrounds and interests.\nCheck out my Resume here!"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Yufan Zhao",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA\nB.S. in Statistics & Data Science, B.A. in Economics | Sept 2022 - June 2026"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Yufan Zhao",
+    "section": "Experience",
+    "text": "Experience\nWellesley Hills Financial | Investment Banking Analyst | May 2025 - present"
   }
 ]

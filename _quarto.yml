@@ -2,13 +2,16 @@ project:
   type: website
 
 website:
-  title: "Yufan Zhao's Website"
+  title: "Yufan Zhao"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
+      - href: project.qmd
         text: Project
+        
+  page-footer:
+    right: "&copy; 2025, Yufan Zhao "
 
 format:
   html:
@@ -18,5 +21,6 @@ format:
     css: styles.css
     toc: true
 
-
+execute:
+  freeze: auto
 

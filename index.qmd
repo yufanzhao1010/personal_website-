@@ -1,11 +1,29 @@
 ---
 title: "Yufan Zhao"
+about:
+  template: trestles
+  image: professional_pic.png
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: www.linkedin.com/in/yufanzhao10
+    - icon: github
+      text: Github
+      href: https://github.com/yufanzhao1010
 ---
 
-This is a Quarto website.
+Hello everyone! I’m Yufan Zhao, a UCLA senior graduating in Spring 2026. I work at the intersection of economics, statistics, and data science, where I enjoy building models to analyze financial markets, forecasting economic trends, and extracting insights from complex datasets. In my free time, I enjoy exploring new cafés and city spots, traveling independently, and working on creative business projects, which gives me opportunities to connect with people from diverse backgrounds and interests.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Check out my [Resume](cv.pdf) here!
 
-```{r}
-1 + 1
-```
+## Education
+
+University of California, Los Angeles | Los Angeles, CA  
+
+
+B.S. in Statistics & Data Science, B.A. in Economics | Sept 2022 - June 2026
+
+
+## Experience
+
+Wellesley Hills Financial | Investment Banking Analyst | May 2025 - present

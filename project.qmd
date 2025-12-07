@@ -1,0 +1,17 @@
+---
+title: "Academic Projects"
+toc: false
+---
+## Coffee and Napping Effects on Short Term Memory — UCLA  
+- Designed and executed a 2 by 2 factorial experiment on 144 participants to test the individual and interaction effects of caffeine intake and a 30 minute nap on short term memory performance.
+- Conducted power analysis for a medium effect size of 0.28 and implemented stratified sampling across three island populations with random assignment into four treatment groups.  
+- Applied two way ANOVA with an unbalanced age blocking factor and residual diagnostics, finding no statistically significant main or interaction effects despite the caffeine plus nap group showing the fastest average performance.
+
+Please see my project [here](report1.pdf)!
+
+## Predicting NBA Game Outcomes Using Rolling Averages — UCLA  
+- Engineered team level rolling and weighted rolling averages across shooting, rebounding, assists, turnovers, and plus minus statistics to predict win loss outcomes using historical NBA game data.  
+- Trained and evaluated Random Forest and QDA classifiers using standard, weighted, and difference in rolling average features, achieving peak accuracy of 0.78 with weighted rolling averages.  
+- Performed feature selection and forward selection on weighted rolling metrics and constructed opponent based difference features, confirming margin and efficiency statistics as the strongest predictors of game outcomes.
+
+Please see my project [here](report2.pdf)!
